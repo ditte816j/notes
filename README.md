@@ -41,3 +41,10 @@ This quote humorously highlights the importance of designing user-friendly and r
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of continuous learning and improvement in the field of programming to stay ahead in this race.
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use task management tools, such as Trello or Asana, to help keep track of your tasks and priorities. 
+ 2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out the steps you need to take and the resources you will need. Creating a detailed plan will ensure you have all the information you require to complete the task successfully. It will also help to avoid last-minute surprises and stress.  
+3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital. Organizing your code will make it easier to find and fix errors, add new features, or maintain the code in the future. Follow coding conventions and use version control systems, like Git, regularly to keep your work in order. Additionally, use code editors and IDE' s with code navigation and autocomplete features to make your life easier.
