@@ -89,3 +89,8 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to complex, hard-to-maintain code. It's better to write clear, simple code first and optimize only when profiling indicates that a particular section of code is a performance bottleneck.
