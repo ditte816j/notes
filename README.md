@@ -109,3 +109,6 @@ This quote reminds us that while optimizing code for efficiency is important, it
 1. Prioritize tasks: When you're working on a project, make sure to list the tasks in order of importance. Focus on the most critical tasks first, so you can finish them and move on to the less critical ones.
 2. Plan your timewisely: Allocate time for each task, based on its complexity and importance in the project. Don't forget to leave some time to rest and refresh your mind. Use a timer or scheduling tool to keep track of your progress. 
 3. Stay organized: Use version control systems like Git to manage your code. Keep your project structure clean and organized, with well-named files and folders. Add comments and documentation to make your codes easier to understand and maintain.
+
+# 2023-12-12
+- "Keep it simple, stupid!"
