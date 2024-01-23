@@ -311,3 +311,6 @@ Next, planning ahead is crucial. Before starting a new project or undertaking a 
 
 Effective communication is key in any team, but especially in the programming world. Be sure to clearly document your code and explanations, so others can understand and contribute to your projects. Collaboration and open-mindedness are vital in this field, because you never know when you'll need to call on a colleague' s expertise. 
  - Learn from your mistakes and those of others. Reflect on your experiences and use them to grow as a programmer. Always be curious and explore new technologies and tools that can help you become a better developer. Practice good programming habits, like writing tests, commenting your codes, using version control, etc. These habits will pay off in your career.
+
+# 2024-01-23
+- "Keep it simple, stupid!"
