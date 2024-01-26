@@ -322,3 +322,9 @@ Remember to stay flexible and adaptable. As you work on a project, things may ch
 
 # 2024-01-25
 - "Keep it simple, stupid!"
+
+# 2024-01-26
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the newest trends and techniques in the industry.
+
+To become a successful programmer, one must also develop excellent communication and teamwork skills, because programming is a collaborative process. It is essential to work closely with other team members, such as designers, product managers, or testers, to ensure that the final product meets the needs of the end user. Effective communication helps to eliminate misunderstandings and resolve conflicts, leading to a smoother development process and better results. 
+ - 来自NLP
