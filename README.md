@@ -523,3 +523,6 @@ In practical terms for programmers, this could mean choosing well-established li
 Second, planning ahead is crucial. Anticipate potential challenges and obstacles, so you'll be prepared to overcome them. Break down larger tasks into smaller, manageable steps, which will make it easier to track your progress and adjust your plan as needed. 
  	
 Lastly, stay organised. Use project management tools, such as Trello or Asana, to keep track of your task list, deadlines, team communication, etc. Organising your workspace and codebase will also help to reduce distractions and improve your workflow. Additionally, don't forget to take breaks and maintain a healthy work-life balance.
+
+# 2024-03-12
+- "Keep it simple, stupid!"
