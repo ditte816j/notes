@@ -532,3 +532,6 @@ Lastly, stay organised. Use project management tools, such as Trello or Asana, t
 
 # 2024-03-14
 - "Keep it simple, stupid!"
+
+# 2024-03-15
+- "Keep it simple, stupid!"
